@@ -62,6 +62,8 @@ public class CollectionDemo {
 		System.out.println("TreeSet:\t\t"+treeSetObj);
 		treeSetObj.forEach(a-> System.out.println(a));
 		
+		System.out.println("Welcome");
+		
 	}
 
 }
