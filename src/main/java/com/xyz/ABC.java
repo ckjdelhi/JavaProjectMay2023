@@ -10,8 +10,6 @@ public class ABC extends Test {
 		//System.out.println(t.b);//private
 		//System.out.println(t.c);
 		System.out.println(t.d);
-		
-		
 		ABC obj=new ABC();
 		//System.out.println(obj.a);//default: same package
 		//System.out.println(obj.b);//private: same class
